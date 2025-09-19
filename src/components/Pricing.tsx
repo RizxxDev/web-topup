@@ -15,6 +15,12 @@ const pricingData = {
       { amount: '355 Diamonds', price: 'Rp 50,000' },
       { amount: '720 Diamonds', price: 'Rp 100,000' },
     ]},
+    { name: 'PUBG Mobile', items: [
+      { amount: '60 UC', price: 'Rp 15,000' },
+      { amount: '325 UC', price: 'Rp 75,000' },
+      { amount: '660 UC', price: 'Rp 150,000' },
+      { amount: '1800 UC', price: 'Rp 375,000' },
+    ]},
   ],
   pulsa: [
     { name: 'Telkomsel', items: [
