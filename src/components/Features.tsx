@@ -27,12 +27,6 @@ const features = [
     color: 'from-blue-400 to-purple-500'
   },
   {
-    icon: Users,
-    title: 'Jutaan Pengguna',
-    description: 'Dipercaya oleh jutaan gamer di seluruh Indonesia sejak 2018',
-    color: 'from-indigo-400 to-cyan-500'
-  },
-  {
     icon: Award,
     title: 'Harga Terbaik',
     description: 'Harga kompetitif dengan bonus dan promo menarik setiap harinya',
