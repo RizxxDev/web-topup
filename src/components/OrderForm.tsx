@@ -25,7 +25,7 @@ Metode Pembayaran: ${formData.paymentMethod}
 Mohon diproses, terima kasih!
     `.trim();
     
-    const whatsappUrl = `https://wa.me/6281234567890?text=${encodeURIComponent(message)}`;
+    const whatsappUrl = `https://wa.me/6285173231171?text=${encodeURIComponent(message)}`;
     window.open(whatsappUrl, '_blank');
   };
 
