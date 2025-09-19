@@ -10,10 +10,13 @@ const pricingData = {
       { amount: '429 Diamonds', price: 'Rp 100,000' },
     ]},
     { name: 'Free Fire', items: [
+      { amount: '50 Diamonds', price: 'Rp 7,500' },
       { amount: '70 Diamonds', price: 'Rp 10,000' },
       { amount: '140 Diamonds', price: 'Rp 20,000' },
       { amount: '355 Diamonds', price: 'Rp 50,000' },
       { amount: '720 Diamonds', price: 'Rp 100,000' },
+      { amount: 'Membership Mingguan', price: 'Rp 29,000' },
+      { amount: 'Membership Bulanan', price: 'Rp 87,000' },
     ]},
     { name: 'PUBG Mobile', items: [
       { amount: '60 UC', price: 'Rp 15,000' },
